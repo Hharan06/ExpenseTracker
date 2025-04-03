@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087464889225",
+    "project_id": "expensetracker694",
+    "storage_bucket": "expensetracker694.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087464889225:android:42dd3d62b011ea20f65f58",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvG_imojoELkyvqgzIe_i-0dJNAxaEpAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087464889225:android:fcc560f0bb3b3358f65f58",
+        "android_client_info": {
+          "package_name": "com.example.finpower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvG_imojoELkyvqgzIe_i-0dJNAxaEpAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
